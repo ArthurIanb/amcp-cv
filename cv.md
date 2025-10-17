@@ -1,10 +1,10 @@
 ## Arthur Ianbaev
 My real photo:
-![real arthur](https://static.wikia.nocookie.net/warrior/images/a/ad/Deathofkevincrow.jpg/revision/latest?cb=20160202110346&path-prefix=ru)
+![real arthur|256x300](https://static.wikia.nocookie.net/warrior/images/a/ad/Deathofkevincrow.jpg/revision/latest?cb=20160202110346&path-prefix=ru)
 ## tg: @H3APTYP
 ## GH: https://github.com/ArthurIanb
 ## CodeWars😞: https://www.codewars.com/users/Arthur_ianb
-## LeetCode😀: 
+## LeetCode😀: https://leetcode.com/u/WHO_AM_ARTHUR/
 At this moment I am studying in Saint-Petersburg state University at 'Programming and Information Technology'  program
 I have been interested in programming since an early age, my hobbies are python and brawl stars ~~~(37k)~~~ (42k), I am studying on the “” course, I identify myself as a rn
 ### Teck skills:
@@ -20,5 +20,3 @@ I have been interested in programming since an early age, my hobbies are python 
 ### Soft Skills
 - Easy To Learn
 - whole lotta time
-
-
