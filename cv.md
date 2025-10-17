@@ -1,6 +1,6 @@
 ## Arthur Ianbaev
 My real photo:
-<img src="https://static.wikia.nocookie.net/warrior/images/a/ad/Deathofkevincrow.jpg/revision/latest?cb=20160202110346&path-prefix=ru" width="250" height="300">
+<img src="myrealphoto.jpg" width="250" height="300">
 
 ## tg: @H3APTYP
 ## GH: https://github.com/ArthurIanb
