@@ -1,6 +1,6 @@
 ## Arthur Ianbaev
 My real photo:
-![real arthur](https://ru.pinterest.com/pin/143763413101312115/)
+![real arthur](https://static.wikia.nocookie.net/warrior/images/a/ad/Deathofkevincrow.jpg/revision/latest?cb=20160202110346&path-prefix=ru)
 ## tg: @H3APTYP
 ## GH: https://github.com/ArthurIanb
 ## CodeWars😞: https://www.codewars.com/users/Arthur_ianb
@@ -10,9 +10,9 @@ I have been interested in programming since an early age, my hobbies are python 
 ### Teck skills:
 - C++
 - Python
-1 Django
-2 FastAPI
-3 PosgreSQL
+- Django
+- FastAPI
+- PosgreSQL
 - Git
 - Linux
 - English(B1)
