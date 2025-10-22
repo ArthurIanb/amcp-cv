@@ -13,7 +13,7 @@ I have been interested in programming since an early age, my hobbies are python 
 - Python
 - Django
 - FastAPI
-- PosgreSQL
+- PostgreSQL
 - Git
 - Linux
 - English(B1)
