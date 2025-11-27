@@ -7,8 +7,8 @@ My real photo:
 ## CodeWars😞: https://www.codewars.com/users/Arthur_ianb
 ## LeetCode😀: https://leetcode.com/u/WHO_AM_ARTHUR/
 At this moment I am studying in Saint-Petersburg state University at 'Programming and Information Technology'  program
-I have been interested in programming since an early age, my hobbies are python and brawl stars ~~(37k)~~ (42k), I am studying on the “” course, I identify myself as a rn
-### Teck skills:
+I have been interested in programming since an early age, my hobbies are python and brawl stars ~~(37k)~~ ~~(42k)~~(45.5k), I am studying on the “” course, I identify myself as a rn
+### Tech skills:
 - C++
 - Python
 - Django
